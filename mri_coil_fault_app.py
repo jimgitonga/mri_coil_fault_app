@@ -1668,7 +1668,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.write("MRI Coil Fault Detector | © 2025")
+    st.write("Developed by Jim Gitonga | Powered by POWER_OF_TENSOR | © 2025")
 
 if __name__ == "__main__":
     main()
