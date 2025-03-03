@@ -3,3 +3,4 @@ logs/
 mri_app.log
 test_image.py
 fastmri_sample.dcm
+mri_coil_fault_detector.h5
